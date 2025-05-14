@@ -5,7 +5,7 @@ int main()
 {
 
     int a = 2;
-    int b = 5;
+    float b = 5;
     cout << a + b;
     // hello
     return 0;
